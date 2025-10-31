@@ -16,7 +16,7 @@ export default function Layout(props) {
         >
           <img
             alt="pfp"
-            src="https://media.licdn.com/dms/image/v2/D4D03AQHLTdNb5MJZHg/profile-displayphoto-shrink_400_400/B4DZZYZC4JG0Ag-/0/1745239685512?e=1758153600&v=beta&t=lpb-CJK6-gK2lrBUA5LTpi9zaiIheYZaidG86V2YU2E"
+            src="https://i.ibb.co/wN8MJxKr/jash.jpg"
           />
           <p>Jash Parmar</p>
           <i className="fa-brands fa-linkedin"></i>
